@@ -1,0 +1,36 @@
+2022-12-11 20:12:689 INFO  Hooks:36 - Scenario Started sucessfully Verify if Place is being Succesfully added using AddPlaceAPI
+2022-12-11 20:12:945 INFO  GenericUtils:52 - Element is clicked By.xpath: //a[text()='Register']
+2022-12-11 20:12:42 INFO  GenericUtils:44 - data to be filled Ayush
+2022-12-11 20:12:116 INFO  GenericUtils:44 - data to be filled Gatty
+2022-12-11 20:12:207 INFO  GenericUtils:44 - data to be filled 1522 Rani No Hajiro
+2022-12-11 20:12:279 INFO  GenericUtils:44 - data to be filled Kavali
+2022-12-11 20:12:352 INFO  GenericUtils:44 - data to be filled 57737
+2022-12-11 20:12:429 INFO  GenericUtils:44 - data to be filled Jharkhand
+2022-12-11 20:12:512 INFO  GenericUtils:44 - data to be filled 7144865502
+2022-12-11 20:12:582 INFO  GenericUtils:44 - data to be filled 2838383
+2022-12-11 20:12:663 INFO  GenericUtils:44 - data to be filled tinysnake295
+2022-12-11 20:12:737 INFO  GenericUtils:44 - data to be filled pickle
+2022-12-11 20:12:812 INFO  GenericUtils:44 - data to be filled pickle
+2022-12-11 20:12:568 INFO  GenericUtils:52 - Element is clicked By.xpath: //input[@value='Register']
+2022-12-11 20:12:587 INFO  GenericUtils:66 - Exception occured no such element: Unable to locate element: {"method":"xpath","selector":"//span[@id='customer.username.errors']"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DEEPAK-LAPTOP', ip: '192.168.1.8', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [455dce0da26c6ddc99d4806a998b6660, findElement {using=xpath, value=//span[@id='customer.username.errors']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\91701\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52853}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52853/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 455dce0da26c6ddc99d4806a998b6660
+2022-12-11 20:12:608 INFO  GenericUtils:60 - Element is displayed By.xpath: //*[contains(text(),'our account was created successfully')]
+2022-12-11 20:12:40 INFO  GenericUtils:52 - Element is clicked By.xpath: //a[normalize-space()='Bill Pay']
+2022-12-11 20:12:131 INFO  GenericUtils:44 - data to be filled Faustine
+2022-12-11 20:12:215 INFO  GenericUtils:44 - data to be filled 1967 Rue Baraban
+2022-12-11 20:12:296 INFO  GenericUtils:44 - data to be filled Poitiers
+2022-12-11 20:12:369 INFO  GenericUtils:44 - data to be filled Var
+2022-12-11 20:12:440 INFO  GenericUtils:44 - data to be filled 92014
+2022-12-11 20:12:519 INFO  GenericUtils:44 - data to be filled 03-43-07-86-94
+2022-12-11 20:12:595 INFO  GenericUtils:44 - data to be filled 328700994
+2022-12-11 20:12:666 INFO  GenericUtils:44 - data to be filled 328700994
+2022-12-11 20:12:740 INFO  GenericUtils:44 - data to be filled 328700994
+2022-12-11 20:12:795 INFO  GenericUtils:52 - Element is clicked By.xpath: //input[@value='Send Payment']
+2022-12-11 20:12:817 INFO  GenericUtils:60 - Element is displayed By.xpath: //h1[normalize-space()='Bill Payment Service']

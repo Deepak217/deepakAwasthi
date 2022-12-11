@@ -1,0 +1,192 @@
+Request method:	GET
+Request URI:	https://randomuser.me/api
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Sun, 11 Dec 2022 15:05:38 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+ETag: W/"479-u5qEX7bsgWXlTrlTasGuvq5gIxE"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=reje8ejK68ZsMQjo7IE1lMHjc20YiBCA9bgzEwpNFz40DSIztyeTtl%2F1hJzSAINpHYeNCb8gOURIcMLkaYd513xx0MyLGOgQltLs%2F8bjvLO7k8BvagOc%2FbIfEKm6iqGe"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 777f1ea0597d1629-DUS
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Ayush",
+                "last": "Gatty"
+            },
+            "location": {
+                "street": {
+                    "number": 1522,
+                    "name": "Rani No Hajiro"
+                },
+                "city": "Kavali",
+                "state": "Jharkhand",
+                "country": "India",
+                "postcode": 57737,
+                "coordinates": {
+                    "latitude": "7.5477",
+                    "longitude": "-15.3156"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "ayush.gatty@example.com",
+            "login": {
+                "uuid": "2482b778-6234-40f0-abec-3a2b2277da99",
+                "username": "tinysnake295",
+                "password": "pickle",
+                "salt": "xklqc8a5",
+                "md5": "7077c2469e9feeaf3bab707d3d87df88",
+                "sha1": "dd21bebb08001adfdcf3c47971e68f049a0fb6d9",
+                "sha256": "dd13956c079ee4878e6a6e8992f44131184b1d4c72fa58ae53d6abef88e0bf9a"
+            },
+            "dob": {
+                "date": "1983-02-19T18:27:07.169Z",
+                "age": 39
+            },
+            "registered": {
+                "date": "2005-02-18T22:29:02.250Z",
+                "age": 17
+            },
+            "phone": "7144865502",
+            "cell": "7357453185",
+            "id": {
+                "name": "UIDAI",
+                "value": "240827879097"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/74.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+            },
+            "nat": "IN"
+        }
+    ],
+    "info": {
+        "seed": "d835c35b9f5a09f0",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+Request method:	GET
+Request URI:	https://randomuser.me/api
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Sun, 11 Dec 2022 15:05:43 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+ETag: W/"48d-mbjG7fD9ztrfsCgjHDBS+dmIhF0"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1x%2B0BOkE0rHV2vbyJWelsHkoZ57C1%2FLCR7j3HbqS0hUPYhEkab5CD2%2FPLwei7TN%2FkEM%2Fs2sYeCQZt7aWKTBUE837e3h82ed2ySZWJT7aZvJe1h3Ow7Pblf4rT3fxuqu0"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 777f1ebdcc739b57-FRA
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Faustine",
+                "last": "Petit"
+            },
+            "location": {
+                "street": {
+                    "number": 1967,
+                    "name": "Rue Baraban"
+                },
+                "city": "Poitiers",
+                "state": "Var",
+                "country": "France",
+                "postcode": 92014,
+                "coordinates": {
+                    "latitude": "-18.6550",
+                    "longitude": "126.1374"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "faustine.petit@example.com",
+            "login": {
+                "uuid": "6c8036be-e696-49e9-9fda-90ebb7650cda",
+                "username": "redmeercat155",
+                "password": "sunshine",
+                "salt": "zMyK4LZ0",
+                "md5": "a5708eed10a81291cf160635e78cc4ce",
+                "sha1": "462f7934c9251fb3d5e212d232f2aab9bd49ec07",
+                "sha256": "b3b3f5ec4cd320690580cb17ce0956d5f66b68549d3747e8a10f3d9703ea8d26"
+            },
+            "dob": {
+                "date": "1994-08-16T17:47:38.874Z",
+                "age": 28
+            },
+            "registered": {
+                "date": "2017-03-28T21:43:52.445Z",
+                "age": 5
+            },
+            "phone": "03-43-07-86-94",
+            "cell": "06-01-86-94-39",
+            "id": {
+                "name": "INSEE",
+                "value": "2940788694037 12"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/69.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "e10cb3963201fe84",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
